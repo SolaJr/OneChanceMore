@@ -46,7 +46,7 @@ var works2 = [
  ,{
  
 		title: "VestaGoGo",
-		pic: "img/mockups/VestaGoGO.png",
+		pic: "img/mockups/VestagoGO.png",
 		caption:"VestaGoGo" ,
 		type: "In an attempt to test my knolwedge, I created a 48 hour prototyping challenge.",
 		desc: "Navigation can be difficult when their are many things you need to keep your eyes and ears aware of. So we developed an app to assist blind and visually impaired civilians.",
